@@ -3,7 +3,7 @@ Calculadora em Python com Tkinter
 
 Projeto de uma calculadora simples desenvolvido durante os estudos de Python. Ele possui uma versão para terminal e uma interface gráfica criada com Tkinter.
 
-Funcionalidades
+## Funcionalidades
 
 - Soma
 - Subtração
@@ -13,22 +13,24 @@ Funcionalidades
 - Validação de números na versão executada pelo terminal
 - Reaproveitamento da lógica de cálculo na interface gráfica
 
-Tecnologias
+## Tecnologias
 
 - Python
 - Tkinter
 
-Estrutura do projeto
+## Estrutura do projeto
 
 calculadora-python-tkinter/
 ├── calculadora_v1.py
+|
 ├── interface_calculadora.py
+|
 └── README.md
 
 - calculadora_v1.py: contém a lógica das operações e pode ser executado no terminal.
 - interface_calculadora.py: cria a interface gráfica e utiliza a função de cálculo do arquivo principal.
 
-Como executar
+## Como executar
 
 É necessário ter o Python 3 instalado.
 
@@ -40,7 +42,7 @@ Para executar a interface gráfica:
 
 python interface_calculadora.py
 
-Aprendizados
+## Aprendizados
 
 Neste projeto, pratiquei:
 
@@ -50,7 +52,7 @@ Neste projeto, pratiquei:
 - Importação e reaproveitamento de funções entre arquivos
 - Criação de interfaces gráficas com Tkinter
 
-Próximos passos
+## Próximos passos
 
 - Melhorar o visual da interface
 - Validar entradas não numéricas na interface gráfica
