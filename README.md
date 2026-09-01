@@ -20,12 +20,12 @@ Projeto de uma calculadora simples desenvolvido durante os estudos de Python. El
 
 ## Estrutura do projeto
 
+```text
 calculadora-python-tkinter/
 ├── calculadora_v1.py
-|
 ├── interface_calculadora.py
-|
 └── README.md
+```
 
 - calculadora_v1.py: contém a lógica das operações e pode ser executado no terminal.
 - interface_calculadora.py: cria a interface gráfica e utiliza a função de cálculo do arquivo principal.
